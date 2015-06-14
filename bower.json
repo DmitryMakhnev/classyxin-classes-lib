@@ -1,0 +1,29 @@
+{
+  "name": "classyxin-classes-lib",
+  "description": "Library of Javascript classes general-purpose based on classyxin",
+  "version": "0.0.1",
+  "main": "./src/classes-lib.js",
+  "dist": "./dist/",
+  "license": "MIT",
+  "keywords": [
+    "classyxin",
+    "classes",
+    "mixins",
+    "classes and mixins",
+    "events"
+  ],
+  "authors": [
+    {
+      "name": "Dmitry Makhnev",
+      "email": "dmitry.ivshin@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DmitryMakhnev/classyxin-classes-lib.git"
+  },
+  "umdName": "classesLib",
+  "dependencies": {
+    "classyxin": "~0.2.4"
+  }
+}
